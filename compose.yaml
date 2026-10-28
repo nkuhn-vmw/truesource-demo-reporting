@@ -1,0 +1,6 @@
+# Intentionally old images: a TrueSource Viewer demo, do not run.
+services:
+  db:
+    image: bitnami/postgresql:12.9.0
+  broker:
+    image: bitnami/redis:6.2.6
